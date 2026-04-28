@@ -1,0 +1,50 @@
+ //             } else if (choice3 == 2) {
+        //                 System.out.println("Viewing specific detail");
+        //                 System.out.println("Which detail would you like to print?\n1.Item quantity\n1.Quantity\n2.Sales Price\n3.Cost");
+        //                 int choice4 = input.nextInt();
+        //                 switch (choice4) {
+        //                     case 1:
+        //                     System.out.println("Item quantity");
+        //                     System.out.println("Product ID\tProduct Name\tProduct Quantity");
+        //                     break;
+        //                     case 2:
+        //                     System.out.println("Sales Price");
+        //                     System.out.println("Product ID\tProduct Name\tSales Price");
+        //                     break;
+        //                     case 3:
+        //                     System.out.println("Cost");
+        //                     System.out.println("Product ID\tProduct Name\tCost");
+        //                     break;
+        //                     default:
+        //                     System.out.println("Invalid choice");
+        //                     break;
+        //                     }
+        //             } else {
+        //                 System.out.println("Invalid choice for details.");
+        //             }
+        //         } else if (choice2 == 2) {
+        //             System.out.println("Viewing a Specific Item");
+        //             System.out.println("What would you like to do?\n1. View a Whole Item Category\n2. View the specific Item");
+        //             int choice3 = input.nextInt();
+
+        //             if (choice3 == 1) {
+        //                 System.out.println("Viewing a Whole Item Category");
+        //             } else if (choice3 == 2) {
+        //                 System.out.println("Viewing the specific Item");
+        //             } else {
+        //                 System.out.println("Invalid choice for item viewing.");
+        //             }
+
+        //         } else {
+        //             System.out.println("Invalid choice for viewing.");
+        //         }
+        //         break;
+
+        //     case 2:
+        //         System.out.println("Modify Page");
+        //         // Additional logic for modification can go here
+        //         break;
+
+        //     default:
+        //         System.out.println("Invalid choice for Product Page.");
+        // }
